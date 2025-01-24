@@ -6,4 +6,4 @@
 <!-- painel de nota-->
 
 ![thomas-almeida's Stats](https://github-readme-stats.vercel.app/api?username=thomas-almeida&theme=react&show_icons=true&hide_border=true&count_private=true)
-![thomas-almeida's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thomas-almeida&theme=react&hide_border=true)
+![thomas-almeida's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thomas-almeida&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
